@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Page Views Count](https://badges.toozhao.com/badges/01EH16R26VABAQTS9WNKW65W31/green.svg)](https://badges.toozhao.com/badges/01EH16R26VABAQTS9WNKW65W31/green.svg "Get your own page views count badge on badges.toozhao.com")
+[![Page Views Count](https://badges.toozhao.com/badges/01EH16R26VABAQTS9WNKW65W31/orange.svg)](https://badges.toozhao.com/badges/01EH16R26VABAQTS9WNKW65W31/orange.svg "Get your own page views count badge on badges.toozhao.com")
 <!--
 **BolinChan/BolinChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
